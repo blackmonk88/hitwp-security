@@ -1,2 +1,2 @@
-# hitwp-security
-Repo for my own security tools
+# HITWP-security
+Repo for my own WP plugin security config/tools
